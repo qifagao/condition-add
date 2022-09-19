@@ -1,0 +1,27 @@
+{
+  "name": "condition-add",
+  "version": "1.0.0",
+  "description": "Add Condition rules",
+  "main": "src/index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:luizstacio/json-format.git"
+  },
+  "keywords": [
+    "add",
+    "condition",
+    "rule"
+  ],
+  "author": "jody",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/qifagao/condition-add/issues"
+  },
+  "homepage": "https://github.com/qifagao/condition-add",
+  "devDependencies": {
+
+  }
+}
